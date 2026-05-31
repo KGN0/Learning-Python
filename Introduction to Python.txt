@@ -1,0 +1,62 @@
+1. Introduction to Python
+    - Python is an open source, very simple, easy to read, general-purpose, dynamic, interpreted, powerful high programming language
+    - Developed by a Dutch programmer named Guido van Rossum in 1991
+    - Futher developed by Python Software Foundation
+2. Why it is called 'Python'?
+    - Python is named after the comedy television show Monty Python's Flying Circus and not named after the Python snake
+3. The future of python?
+    - Python has a huge user base that is constantly growing. It is a stable language that is going to stay for long.
+    - The strength of python can be understood from the fact that this programming language is the most preferred language of companies.
+4. Features of Python
+    - Easy to code 
+    - Free and Open source
+    - Object Oriented language
+    - GUI programming support
+    - High level language
+    - Extensible Features
+    - Portable language
+    - Intergrated language
+    - Interpreted language
+    - Large standard library
+    - Dynamically typed language
+5. Python development life cycle(PDLC)
+    - Problem defination
+    - Problem analysis
+    - Algorithm development
+    - Coding the program 
+    - Testing and Debugging
+    - Documenting the program
+    - Deploying and Maintaining the program
+6. General structure of a typical python program
+    - Documentation section
+    - Import statement
+    - Defination of user defined function
+    - Main program code
+7. Python Advantages and Disadvantages
+    Advantages
+    - Easy to read, learn and write
+    - imporved productivity
+    - Interpreted language
+    - Dynamically typed
+    - Free and open source
+    - Vast libraries support
+    - Portability
+    Disadvantages
+    - Slow speed
+    - Not memory efficient
+    - Weak in mobile computing
+    - Database access
+    - Runtime Errors
+8. Applications of python
+    - Web development
+    - Game development
+    - Scientific and Numeric Applications
+    - Artificial Intelligence and Machine Learning
+    - Desktop GUI
+    - Software development
+    - Enterprise-level Applications
+    - Education Programs and Training courses
+    - Language development
+    - operating system
+    - web scraping applications 
+    - Image Processing and Graphic design applications
