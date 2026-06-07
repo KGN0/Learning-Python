@@ -26,12 +26,14 @@ c = a + b
 print(type(5))
 
 # examples for explicit type conversion
-m = float(35)
+m = float(35)  # int to float
 print(type(m))
 
-o = float('7')
+o = float('7') # string to float 
 print(type(o))
 
+s = str(99)    # int to string
+print(type(s))
 # type conversion functions
 '''
 - int()
