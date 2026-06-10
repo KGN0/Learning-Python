@@ -1,0 +1,20 @@
+# Control Statements
+'''
+Iterative statements are decision control statements that are used to repeat the execution of a list of statements
+This repetitive operations are done through a loop control structure
+The loop is defined as the block of statements which are repeatedly executed for certain number of times
+
+The loop consists two parts, one is body of the loop and another one is control statement
+
+Steps to follow in loops
+1. Initialization of a condition variable
+2. Test the control statement
+3. Executing the body of the loop depending on the condition
+4. Updating the condition variable
+
+- python supports three types of iterative statements
+    1. while
+    2. for
+    3. nested loop
+
+'''
