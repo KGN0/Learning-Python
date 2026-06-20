@@ -1,0 +1,45 @@
+# 1. all()
+'''Returns True  if all elements of the set are true (or if the set is empty)'''
+my_set = {10, 20, 30, 40, 50}
+print('my_set=', my_set)
+print('all(my_set):', all(my_set))
+my_set = {}
+print('my_set=', my_set)
+print('all(my_set):', all(my_set))
+my_set = {0, '0', 1, False}
+print('my_set=', my_set)
+print('all(my_set):', all(my_set))
+
+# any()
+'''Returns True  if any element of the set are true or if the set is empty returns false'''
+my_set = {10, 20, 30, 40, 50}
+print('my_set=', my_set)
+print('any(my_set):', any(my_set))
+my_set = {}
+print('my_set=', my_set)
+print('any(my_set):', any(my_set))
+
+# enumerate()
+'''Returns an enumerate object. It contains the index and value for all the items of the set as a pair'''
+my_set = {10, 20, 30, 40, 50}
+print('my_set=', my_set)
+print('enumerate(my_set):',enumerate(my_set))
+print('list(enumerate(my_set)):',list(enumerate(my_set)))
+
+# len()
+'''Returns the length of the set'''
+print('lenght of set:',len(my_set))
+# max()
+'''Returns the largest item in the set'''
+print('largest no:',max(my_set))
+# min()
+'''Returns the smallest item in the set'''
+print('smallest no:',min(my_set))
+# susm()
+'''Returns the sum of all  items in the set'''
+print('sum of set:',set(my_set))
+
+# sorted()
+'''Returns a new sorted list from elements in the set (does not sort the set itself)'''
+my_set = {'P','Y', 'T', 'H','O', 'N'}
+print('sorted(my_set):', sorted(my_set))
