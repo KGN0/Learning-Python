@@ -63,3 +63,23 @@ obj3 = A("well")
 obj4 = A("come")
 print(obj1 + obj2)
 print(obj3 + obj4)
+
+# Overriding in python
+''' Method overriding is a concept of object oriented programming that allows us to change 
+    the implementation of a function in the child class that is defined in the parent class.
+    It is the ability a child clas to change the implementation of any method which is already provided by one of its parent class'''
+# Example
+class Parent:
+    def __init__(self):
+        self.value = "Inside Parent"
+    def show(self):
+        print(self.value)
+class Child:
+    def __init__(self):
+        self.value = "Inside Child"
+    def show(self):
+        print(self.value)
+obj1 = Parent()
+obj2 = Child()
+obj1.show()
+obj2.show()
